@@ -1,4 +1,0 @@
-repository "Match_3d/Match_3d@18968144652261@cloud"
-  path "/"
-    br "/main"
-    co "/main"
